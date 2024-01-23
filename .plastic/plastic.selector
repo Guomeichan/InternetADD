@@ -1,0 +1,4 @@
+repository "project_internet@zhanghaode@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
